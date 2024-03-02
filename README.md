@@ -46,7 +46,6 @@ Hello! I'm Alom Jaiswal, a passionate Software Development Engineer with experti
 
 ---
 
-## Wall of Technical Skills
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
