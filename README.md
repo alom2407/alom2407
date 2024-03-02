@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alom2407/alom2407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 # 👋 Welcome to Alom Jaiswal's GitHub Profile! 👨‍💻
 
 ![Alom Jaiswal](https://your-image-url.com)
-
+<g-emoji class="g-emoji" alias="blush" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60a.png">😊</g-emoji>
 ## ℹ️ About Me
 
 Hello! I'm Alom Jaiswal, a passionate Software Development Engineer with expertise in Java and Web Development. I love tackling challenging projects and contributing to innovative solutions.
