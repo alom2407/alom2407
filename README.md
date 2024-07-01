@@ -22,7 +22,7 @@ Hello! I'm Alom Jaiswal, a passionate Software Development Engineer with experti
 ## 📧 Contact Information
 
 - **Email:** alom2407@gmail.com
-- **LinkedIn:** [linkedin.com/in/alom-j-6aa5a4a3](https://linkedin.com/in/alom-j-6aa5a4a3)
+- **LinkedIn:** [linkedin.com/in/alom-j-6aa5a4a3](https://www.linkedin.com/in/alom-jaiswal/)
 - **GitHub:** [github.com/alom2407](https://github.com/alom2407)
 
 ## 💻 Technical Skills
